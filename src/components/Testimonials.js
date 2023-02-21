@@ -17,14 +17,14 @@ export default function Testimonials() {
               data-aos='fade-up'
               className='mt-3 max-w-3xl text-lg text-gray-500'
             >
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et,
-              egestas tempus tellus etiam sed. Quam a scelerisque amet
-              ullamcorper eu enim et fermentum, augue.
+              We're proud to have helped businesses achieve their goals with our
+              tailored web solutions. Our clients love working with us and
+              appreciate our commitment to transparency, honesty, and
+              exceptional customer service. Check out some of our clients, that
+              continue to choose Pottwal Solutions.
             </p>
             <div className='mt-8 sm:flex'>
-              <div data-aos='fade-right' className='rounded-md shadow'>
-              
-              </div>
+              <div data-aos='fade-right' className='rounded-md shadow'></div>
               <div data-aos='fade-left' className='mt-3 sm:mt-0 sm:ml-3'>
                 <a
                   href='#'
@@ -35,7 +35,10 @@ export default function Testimonials() {
               </div>
             </div>
           </div>
-          <div data-aos='slide-left' className='mt-8 grid grid-cols-2 gap-0.5 md:grid-cols-3 lg:mt-20 lg:grid-cols-2'>
+          <div
+            data-aos='slide-left'
+            className='mt-8 grid grid-cols-2 gap-0.5 md:grid-cols-3 lg:mt-20 lg:grid-cols-2'
+          >
             <Link
               href={'https://www.imaginefmcg.com/'}
               className='col-span-1 flex justify-center transparent py-8 px-8 hover:scale-150 transition-all'
