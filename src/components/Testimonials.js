@@ -27,7 +27,7 @@ export default function Testimonials() {
               <div data-aos='fade-right' className='rounded-md shadow'></div>
               <div data-aos='fade-left' className='mt-3 sm:mt-0 sm:ml-3'>
                 <a
-                  href='#'
+                  href='#contact'
                   className='flex items-center justify-center rounded-md border border-transparent bg-indigo-100 px-5 py-3 text-base font-medium text-indigo-700 hover:bg-indigo-200'
                 >
                   Contact Us
